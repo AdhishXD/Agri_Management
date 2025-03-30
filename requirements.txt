@@ -1,2 +1,14 @@
-flask
-gunicorn
+streamlit
+tensorflow
+certifi
+requests
+numpy
+pandas
+earthengine-api (ee)
+pymongo
+bcrypt
+googletrans
+pillow
+joblib
+watchdog
+scikit-learn
